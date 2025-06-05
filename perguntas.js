@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'Qual é a capital da França?',
-    'paris.'
+    'O Anime blue lock é sobre oque?',
+    'Futebol.'
 )
 
 criaCartao(
